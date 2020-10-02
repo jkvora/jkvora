@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jalak Vora</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkvora" alt="jkvora" /> </p>
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 
